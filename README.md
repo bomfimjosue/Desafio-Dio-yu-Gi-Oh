@@ -1,8 +1,4 @@
-# Desafio-Dio-yu-Gi-Oh
-Yu-Gi-Oh
-
-
-Remova Código Duplicado: Certifique-se de que não há funções duplicadas no seu código. Por exemplo, a função <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
